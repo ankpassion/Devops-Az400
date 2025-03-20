@@ -1,1 +1,2 @@
 This is new File C
+Merge C file in FeatureA branch
